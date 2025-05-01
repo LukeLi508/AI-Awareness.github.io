@@ -1,2 +1,0 @@
-# "Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents
-This is the project page for the paper "Nuclear Deployed!": Analyzing Catastrophic Risks in Decision-making of Autonomous LLM Agents.
